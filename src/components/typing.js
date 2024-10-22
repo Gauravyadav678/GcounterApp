@@ -9,7 +9,7 @@ function TypingWithG () {
     }
     return(
         <>
-        <h2> this Is the Typing Section </h2>
+        <h2> this Is  Typing Section </h2>
          <p>{typed}</p>
          <input onChange={typing} value={typed}></input>
         </>
